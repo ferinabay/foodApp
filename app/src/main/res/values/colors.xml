@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorDarkGrey">#3C3C3C</color>
+    <color name="colorLightGrey">#F3F3F3</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <!-- colors for button style -->
+
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+    <color name="gradient_menu_color">#FC8484</color>
+    <color name="gradient_menuend_color">#FE1818</color>
+
+</resources>
